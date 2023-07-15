@@ -1,1 +1,1 @@
-# MiniProject
+# Product Management System
